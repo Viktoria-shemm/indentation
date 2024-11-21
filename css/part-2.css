@@ -1,0 +1,17 @@
+.part-2__text {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+.part-2__text:last-child {
+  margin-bottom: 0;
+}
+
+.part-2__img {
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
