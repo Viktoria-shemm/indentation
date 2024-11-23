@@ -1,10 +1,13 @@
+.content {
+  padding-top: 60px;
+}
+
 .content__title {
   font-size: 60px;
   font-weight: 900;
   line-height: 72px;
   text-align: left;
   margin-bottom: 5px;
-  padding-top: 60px;
 }
 
 section .content__text:first-child {
